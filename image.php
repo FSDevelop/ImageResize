@@ -1,6 +1,10 @@
 <?php
 
+<<<<<<< HEAD
 // Adding other text
+=======
+// Testing
+>>>>>>> origin
 
 /*
 * USO: <img src="image.php?src=image.jpg&w=100&h=100&filter=grayscale" alt="" />
