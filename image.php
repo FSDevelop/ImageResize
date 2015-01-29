@@ -13,6 +13,7 @@ header('Content-Type: image/jpeg');
 // My add
 
 // Adding other thing
+// my thanks
 
 // Dimensionas solicitadas
 $w = $_GET['w']; // Ancho requerido
