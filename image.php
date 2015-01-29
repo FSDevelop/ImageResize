@@ -10,6 +10,8 @@
 // Despliego en pantalla, en formato JPG
 header('Content-Type: image/jpeg');
 
+// My add
+
 // Adding other thing
 
 // Dimensionas solicitadas
