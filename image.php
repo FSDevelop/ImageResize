@@ -21,6 +21,7 @@ $h = $_GET['h']; // Alto requerido
 // Imagen solicitada
 $nombre_archivo = 'archivos/' . $_GET['src'];
 
+asd
 // Adding the third thing
 
 // Obtengo las dimensiones de la imagen
