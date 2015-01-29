@@ -23,6 +23,7 @@ $nombre_archivo = 'archivos/' . $_GET['src'];
 
 asd
 // Adding the third thing
+// Adding the fourth thing
 
 // Obtengo las dimensiones de la imagen
 list($ancho, $alto) = getimagesize($nombre_archivo);
