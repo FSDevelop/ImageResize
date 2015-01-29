@@ -20,6 +20,7 @@ $h = $_GET['h']; // Alto requerido
 $nombre_archivo = 'archivos/' . $_GET['src'];
 
 // Adding the third thing
+// Adding the fourth thing
 
 // Obtengo las dimensiones de la imagen
 list($ancho, $alto) = getimagesize($nombre_archivo);
