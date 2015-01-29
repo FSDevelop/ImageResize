@@ -11,6 +11,7 @@
 header('Content-Type: image/jpeg');
 
 // My add
+// thansk
 
 // Adding other thing
 // my thanks
