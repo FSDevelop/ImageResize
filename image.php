@@ -10,6 +10,8 @@
 // Despliego en pantalla, en formato JPG
 header('Content-Type: image/jpeg');
 
+// Adding other thing
+
 // Dimensionas solicitadas
 $w = $_GET['w']; // Ancho requerido
 $h = $_GET['h']; // Alto requerido
