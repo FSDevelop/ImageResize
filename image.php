@@ -1,10 +1,6 @@
 <?php
 
-<<<<<<< HEAD
-// Adding other text
-=======
-// Testing
->>>>>>> origin
+// Addind 3
 
 /*
 * USO: <img src="image.php?src=image.jpg&w=100&h=100&filter=grayscale" alt="" />
