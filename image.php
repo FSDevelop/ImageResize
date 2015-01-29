@@ -1,7 +1,5 @@
 <?php
 
-// Adding something
-
 /*
 * USO: <img src="image.php?src=image.jpg&w=100&h=100&filter=grayscale" alt="" />
 * El "filter" es opcional.
@@ -10,26 +8,12 @@
 // Despliego en pantalla, en formato JPG
 header('Content-Type: image/jpeg');
 
-// My add
-// thansk
-
-// Adding other thing
-<<<<<<< HEAD
-// my own thanks
-=======
-// my thanks
->>>>>>> 65520f9a430f505300a0b1c61df0400afbf0018a
-
 // Dimensionas solicitadas
 $w = $_GET['w']; // Ancho requerido
 $h = $_GET['h']; // Alto requerido
 
 // Imagen solicitada
 $nombre_archivo = 'archivos/' . $_GET['src'];
-
-asd
-// Adding the third thing
-// Adding the fourth thing
 
 // Obtengo las dimensiones de la imagen
 list($ancho, $alto) = getimagesize($nombre_archivo);
