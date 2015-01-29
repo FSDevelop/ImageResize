@@ -14,7 +14,11 @@ header('Content-Type: image/jpeg');
 // thansk
 
 // Adding other thing
+<<<<<<< HEAD
 // my own thanks
+=======
+// my thanks
+>>>>>>> 65520f9a430f505300a0b1c61df0400afbf0018a
 
 // Dimensionas solicitadas
 $w = $_GET['w']; // Ancho requerido
