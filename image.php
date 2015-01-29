@@ -5,6 +5,8 @@
 * El "filter" es opcional.
 */
 
+my thing
+
 // Despliego en pantalla, en formato JPG
 header('Content-Type: image/jpeg');
 
