@@ -5,7 +5,7 @@
 * El "filter" es opcional.
 */
 
-//add
+// add
 
 // Despliego en pantalla, en formato JPG
 header('Content-Type: image/jpeg');
