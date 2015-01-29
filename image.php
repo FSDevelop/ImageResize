@@ -1,7 +1,12 @@
 <?php
 
+<<<<<<< HEAD
 // Adding 3
 // Adding 4
+=======
+// Addind 3
+// Adding 5
+>>>>>>> 36bc4c9e5914ebc29091db95f5d2b38b415315ef
 
 /*
 * USO: <img src="image.php?src=image.jpg&w=100&h=100&filter=grayscale" alt="" />
